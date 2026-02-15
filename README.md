@@ -73,7 +73,8 @@ npm start
 The frontend will be available at [http://localhost:3000](http://localhost:3000).
 
 ---
-<img width="1893" height="885" alt="image" src="https://github.com/user-attachments/assets/e8697942-a83d-4974-b590-225954a1b394" />
+<img width="1904" height="890" alt="image" src="https://github.com/user-attachments/assets/369a9c84-fd31-4ec3-818d-9c957cc50ad5" />
+
 
 ## Usage
 
